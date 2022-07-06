@@ -1,4 +1,4 @@
-package com.company;
+package estrutura_sequencial;
 
 public class exercico1 {
 
